@@ -9,3 +9,7 @@ Answer: Quantitative finance, because it is a lot of financial data analysis.
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging combines changes from multiple branches into a single branch, while rebasing moves a branch onto another branch.
+
+Q4: What are you looking forward to this semester?
+
+Answer: The final project.
