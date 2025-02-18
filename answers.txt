@@ -1,0 +1,7 @@
+Q1: Why might we consider using Git?
+
+Answer: It is the most common version control system to collaborate on a single project.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Quantitative finance, because it is a lot of financial data analysis.
