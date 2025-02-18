@@ -1,3 +1,3 @@
 Q1: Why might we consider using Git?
 
-Answer: It is the most popular way to do version control to collaborate on projects.
+Answer: It is the most common version control system to collaborate on a single project.
