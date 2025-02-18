@@ -5,3 +5,7 @@ Answer: It is the most common version control system to collaborate on a single 
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Quantitative finance, because it is a lot of financial data analysis.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines changes from multiple branches into a single branch, while rebasing moves a branch onto another branch.
